@@ -10,7 +10,7 @@
   <img src="https://hits.dwyl.com/MARAM-KARTHIK-REDDY4/FWS-creator.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-MARAM-KARTHIK-REDDY4-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-MARAM-KARTHIK-REDDY4-purple?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
