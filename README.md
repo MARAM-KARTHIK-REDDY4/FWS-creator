@@ -2,15 +2,15 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.1-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/KasRoudra/MaxPhisher?style=for-the-badge&color=orange">
-  <img src="https://img.shields.io/github/forks/KasRoudra/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/watchers/KasRoudra/MaxPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/MaxPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/MaxPhisher?style=for-the-badge&color=blue">
-  <img src="https://hits.dwyl.com/KasRoudra/MaxPhisher.svg" width="140" height="28">
+  <img src="https://img.shields.io/github/stars/MARAM-KARTHIK-REDDY4/FWS-creator?style=for-the-badge&color=orange">
+  <img src="https://img.shields.io/github/forks/MARAM-KARTHIK-REDDY4/FWS-creator?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/watchers/MARAM-KARTHIK-REDDY4/FWS-creator?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/MARAM-KARTHIK-REDDY4/FWS-creatorr?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/MARAM-KARTHIK-REDDY4/FWS-creator?style=for-the-badge&color=blue">
+  <img src="https://hits.dwyl.com/MARAM-KARTHIK-REDDY4/FWS-creator.svg" width="140" height="28">
 <br>
 <br>
-  <img src="https://img.shields.io/badge/Author-KasRoudra-purple?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-MARAM-KARTHIK-REDDY4-skyblue?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Made%20in-Bangladesh-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Python-blue?style=flat-square">
